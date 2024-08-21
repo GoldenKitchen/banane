@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "969346166982",
+    "project_id": "fir-1-e5bef",
+    "storage_bucket": "fir-1-e5bef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969346166982:android:58171c97cc17d7290727c7",
+        "android_client_info": {
+          "package_name": "com.denemeler"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDotBW9Ox4JfdDT3DpLbKOQr9K6tx52Ggc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
